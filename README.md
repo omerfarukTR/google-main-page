@@ -6,4 +6,5 @@ HTML, CSS
 Visual Studio Code, Mozilla Firefox
 ## Yararlanılan Web Sayfaları
 [W3schools](https://www.w3schools.com/)
+
 [Youtube](https://www.youtube.com/)

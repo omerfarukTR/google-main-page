@@ -5,5 +5,5 @@ HTML, CSS
 ## Kullanılan Programlar
 Visual Studio Code, Mozilla Firefox
 ## Yararlanılan Web Sayfaları
-[title](https://www.w3schools.com/)
-[title](https://www.youtube.com/)
+[W3schools](https://www.w3schools.com/)
+[Youtube](https://www.youtube.com/)
